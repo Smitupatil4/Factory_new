@@ -1,0 +1,17 @@
+D:\Repo\Factory\admin\obj\Debug\net7.0\admin.csproj.AssemblyReference.cache
+D:\Repo\Factory\admin\obj\Debug\net7.0\admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Factory\admin\obj\Debug\net7.0\admin.AssemblyInfoInputs.cache
+D:\Repo\Factory\admin\obj\Debug\net7.0\admin.AssemblyInfo.cs
+D:\Repo\Factory\admin\obj\Debug\net7.0\admin.csproj.CoreCompileInputs.cache
+D:\Repo\Factory\Admin\bin\Debug\net7.0\Admin.deps.json
+D:\Repo\Factory\admin\bin\Debug\net7.0\Admin.dll
+D:\Repo\Factory\admin\bin\Debug\net7.0\Admin.pdb
+D:\Repo\Factory\admin\bin\Debug\net7.0\Factory.Business.dll
+D:\Repo\Factory\admin\bin\Debug\net7.0\Factory.Interface.dll
+D:\Repo\Factory\admin\bin\Debug\net7.0\Factory.Interface.pdb
+D:\Repo\Factory\admin\bin\Debug\net7.0\Factory.Business.pdb
+D:\Repo\Factory\Admin\obj\Debug\net7.0\Admin.csproj.CopyComplete
+D:\Repo\Factory\admin\obj\Debug\net7.0\Admin.dll
+D:\Repo\Factory\admin\obj\Debug\net7.0\refint\Admin.dll
+D:\Repo\Factory\admin\obj\Debug\net7.0\Admin.pdb
+D:\Repo\Factory\Admin\obj\Debug\net7.0\ref\Admin.dll

@@ -1,0 +1,15 @@
+D:\Repo\Factory\factory.interface\bin\Debug\net7.0\factory.interface.deps.json
+D:\Repo\Factory\factory.interface\bin\Debug\net7.0\factory.interface.dll
+D:\Repo\Factory\factory.interface\bin\Debug\net7.0\factory.interface.pdb
+D:\Repo\Factory\factory.interface\bin\Debug\net7.0\factory.business.dll
+D:\Repo\Factory\factory.interface\bin\Debug\net7.0\factory.business.pdb
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.csproj.AssemblyReference.cache
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.AssemblyInfoInputs.cache
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.AssemblyInfo.cs
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.csproj.CoreCompileInputs.cache
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.csproj.CopyComplete
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.dll
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\refint\factory.interface.dll
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\factory.interface.pdb
+D:\Repo\Factory\factory.interface\obj\Debug\net7.0\ref\factory.interface.dll

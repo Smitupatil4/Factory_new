@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dashboard/1.0.0": {
+        "dependencies": {
+          "Factory.Business": "1.0.0",
+          "Factory.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Dashboard.dll": {}
+        }
+      },
+      "Factory.Business/1.0.0": {
+        "runtime": {
+          "Factory.Business.dll": {}
+        }
+      },
+      "Factory.Interface/1.0.0": {
+        "dependencies": {
+          "Factory.Business": "1.0.0"
+        },
+        "runtime": {
+          "Factory.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dashboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

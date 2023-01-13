@@ -1,0 +1,17 @@
+D:\Repo\Factory\User\bin\Debug\net7.0\User.deps.json
+D:\Repo\Factory\User\bin\Debug\net7.0\User.dll
+D:\Repo\Factory\User\bin\Debug\net7.0\User.pdb
+D:\Repo\Factory\User\obj\Debug\net7.0\User.csproj.AssemblyReference.cache
+D:\Repo\Factory\User\obj\Debug\net7.0\User.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Factory\User\obj\Debug\net7.0\User.AssemblyInfoInputs.cache
+D:\Repo\Factory\User\obj\Debug\net7.0\User.AssemblyInfo.cs
+D:\Repo\Factory\User\obj\Debug\net7.0\User.csproj.CoreCompileInputs.cache
+D:\Repo\Factory\User\obj\Debug\net7.0\User.dll
+D:\Repo\Factory\User\obj\Debug\net7.0\refint\User.dll
+D:\Repo\Factory\User\obj\Debug\net7.0\User.pdb
+D:\Repo\Factory\User\obj\Debug\net7.0\ref\User.dll
+D:\Repo\Factory\User\bin\Debug\net7.0\Factory.Business.dll
+D:\Repo\Factory\User\bin\Debug\net7.0\Factory.Interface.dll
+D:\Repo\Factory\User\bin\Debug\net7.0\Factory.Business.pdb
+D:\Repo\Factory\User\bin\Debug\net7.0\Factory.Interface.pdb
+D:\Repo\Factory\User\obj\Debug\net7.0\User.csproj.CopyComplete

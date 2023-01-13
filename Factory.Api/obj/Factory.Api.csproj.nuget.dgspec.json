@@ -1,0 +1,380 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repo\\Factory\\Factory.Api\\Factory.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Repo\\Factory\\Admin\\Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\Admin\\Admin.csproj",
+        "projectName": "Admin",
+        "projectPath": "D:\\Repo\\Factory\\Admin\\Admin.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj"
+              },
+              "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\Factory\\Dashboard\\Dashboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\Dashboard\\Dashboard.csproj",
+        "projectName": "Dashboard",
+        "projectPath": "D:\\Repo\\Factory\\Dashboard\\Dashboard.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\Dashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj"
+              },
+              "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\Factory\\Factory.Api\\Factory.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\Factory.Api\\Factory.Api.csproj",
+        "projectName": "Factory.Api",
+        "projectPath": "D:\\Repo\\Factory\\Factory.Api\\Factory.Api.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\Factory.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repo\\Factory\\Admin\\Admin.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Admin\\Admin.csproj"
+              },
+              "D:\\Repo\\Factory\\Dashboard\\Dashboard.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Dashboard\\Dashboard.csproj"
+              },
+              "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj"
+              },
+              "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj"
+              },
+              "D:\\Repo\\Factory\\User\\User.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\User\\User.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj",
+        "projectName": "Factory.Business",
+        "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\Factory.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj",
+        "projectName": "Factory.Interface",
+        "projectPath": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\Factory.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repo\\Factory\\User\\User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\Factory\\User\\User.csproj",
+        "projectName": "User",
+        "projectPath": "D:\\Repo\\Factory\\User\\User.csproj",
+        "packagesPath": "C:\\Users\\Sachin Patil\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\Factory\\User\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sachin Patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Business\\Factory.Business.csproj"
+              },
+              "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj": {
+                "projectPath": "D:\\Repo\\Factory\\Factory.Interface\\Factory.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

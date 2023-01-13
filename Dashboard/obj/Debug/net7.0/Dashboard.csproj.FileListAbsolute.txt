@@ -1,0 +1,17 @@
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Dashboard.deps.json
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Dashboard.dll
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Dashboard.pdb
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.csproj.AssemblyReference.cache
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.AssemblyInfoInputs.cache
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.AssemblyInfo.cs
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.csproj.CoreCompileInputs.cache
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.dll
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\refint\Dashboard.dll
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.pdb
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\ref\Dashboard.dll
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Factory.Business.dll
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Factory.Interface.dll
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Factory.Business.pdb
+D:\Repo\Factory\Dashboard\bin\Debug\net7.0\Factory.Interface.pdb
+D:\Repo\Factory\Dashboard\obj\Debug\net7.0\Dashboard.csproj.CopyComplete

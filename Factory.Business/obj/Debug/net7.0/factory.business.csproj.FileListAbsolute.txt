@@ -1,0 +1,12 @@
+D:\Repo\Factory\factory.business\bin\Debug\net7.0\factory.business.deps.json
+D:\Repo\Factory\factory.business\bin\Debug\net7.0\factory.business.dll
+D:\Repo\Factory\factory.business\bin\Debug\net7.0\factory.business.pdb
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.csproj.AssemblyReference.cache
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.AssemblyInfoInputs.cache
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.AssemblyInfo.cs
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.csproj.CoreCompileInputs.cache
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.dll
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\refint\factory.business.dll
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\factory.business.pdb
+D:\Repo\Factory\factory.business\obj\Debug\net7.0\ref\factory.business.dll
